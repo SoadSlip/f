@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(189, 130, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    color: blueviolet;
+}
+img{
+    width: 400px;
+    max-width: 1000px;
+    padding-left: 750px ;
+    
+}
+p{
+   padding-left: 700px ;
+   font-size:30px ;
+}
+h1{
+    font-size:64px;
+    margin: left 100px;
+    padding-left: 650px ;
+}
+audio{
+    padding-left: 800px ;
+}
+h2{
+    padding-left: 50px ;
+}
+ul{
+    padding-left: 50px ;
+}
